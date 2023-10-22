@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working ongetting my first commercial experience as junior full-stack developer. <br>👯 I’m looking to collaborate on projects related to C#,  JavaScript, React, , Python. <br>🤝 I will support the team with supportive conversations and creative ideas.<br>🌱 I’m currently learning Unreal Engine 5 <br>⚡ Fun fact: in my free time i'm playing guitar in Overflow band
+🔭 I’m currently working on getting my first commercial experience as junior full-stack developer. <br>👯 I’m looking to collaborate on projects related to C#,  JavaScript, React, , Python. <br>🤝 I will support the team with supportive conversations and creative ideas.<br>🌱 I’m currently learning Unreal Engine 5 <br>⚡ Fun fact: in my free time i'm playing guitar in Overflow band
 
 
 ## 🌐 Socials:
